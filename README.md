@@ -5,5 +5,4 @@ Summer 2025 **Undergraduate Research in Data Analytics (URDA)** program hosted a
 Applying computer vision methods for object, to find physical faults in railroad infrastructure
 
 - **Principle Investigator**: Dr. Husnu Narman, Marshall University
-
 - **Undergraduate Research Fellow**: Advay Chandramouli, University of Texas at Dallas (UTD)
