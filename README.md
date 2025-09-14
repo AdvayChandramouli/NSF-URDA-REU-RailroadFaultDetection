@@ -27,3 +27,4 @@ Our research compared two state-of-the-art object detection architectures, **YOL
 This research was part of the National Science Foundation (NSF) Research Experiences for Undergraduates (REU) program in Data Analytics, at Marshall University, under the guidance of Dr. Husnu Narman. 
 We thank the NSF for facilitating this work and providing valuable exposure to intelligent transportation systems. We also thank Dr. Haroon Malik and Dr. Yousef Fazea for their guidance and feedback.
 
+![Alt text](NSFREU-2025.jpg)
