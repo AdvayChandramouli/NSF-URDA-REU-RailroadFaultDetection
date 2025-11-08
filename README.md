@@ -3,7 +3,7 @@
 This repository presents our research on applying **Computer Vision (CV)** and **Deep Learning (DL)** for automated detection of railroad tie defects.  
 Our work compares two state-of-the-art object detection architectures, **YOLOv11-L** and **RT-DETR-L**, using annotated field-test footage.  
 
-📍 **Accepted for presentation at IEEE UEMCON 2025**, held at the IBM Learning Center in New York City.  
+📍 **Accepted for presentation at 2025 IEEE UEMCON**, held at the IBM Learning Center in New York City.  
 
 ---
 
